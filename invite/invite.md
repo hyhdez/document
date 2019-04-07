@@ -17,4 +17,3 @@
 
 <img src="https://raw.githubusercontent.com/hyhdez/document/master/invite/images/monkey_he.jpg" width="10%" height="10%">
 
-b
